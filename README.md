@@ -227,4 +227,4 @@ Project Link: [https://github.com/avdan-os/AvdanOS](https://github.com/avdan-os/
 [issues-url]: https://github.com/avdan-os/AvdanOS/issues
 [license-shield]: https://img.shields.io/badge/LICENSE-gnu%20gpl%20v3-orange?style=for-the-badge&logo=github
 [license-url]: https://github.com/avdan-os/AvdanOS/blob/master/LICENSE
-[product-screenshot]: .github/assets/screenshot-header.png
+[product-screenshot]: /assets/screenshot-header.png
